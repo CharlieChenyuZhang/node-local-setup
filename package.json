@@ -1,0 +1,19 @@
+{
+  "name": "local-setup",
+  "version": "1.0.0",
+  "description": "This repo contains all the necessary files to set up a repo.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieChenyuZhang/node-local-setup.git"
+  },
+  "author": "Charlie Chenyu Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieChenyuZhang/node-local-setup/issues"
+  },
+  "homepage": "https://github.com/CharlieChenyuZhang/node-local-setup#readme"
+}
